@@ -15,7 +15,7 @@
     "Author": "Rafael Laszlo Jenz @ OtterSpaceDevelopment",
     "AuthorOccupation": "",
     "ContactEmail": "contact@uncountedisles.com",
-    "ContactIntro": "For business inquiries use ",
+    "ContactIntro": "For business inquiries ",
     "Description": "Travel the Islands of the Uncounted Isle Archipelago to fight and loot. Learn new skills and customize your character for the fights ahead. Trade Equipment you found, but don't forget to store some items in your safehouse, you may need them later...",
     "Favicon": "browser/favicon.ico",
     "ImprintLink": "https://rafaeljenz.de/impressum.html",
@@ -25,7 +25,7 @@
     "LogoWidth": 1984,
     "LogoHeight": 1104,
     "ThemeColor": "#0065d1",
-    "Title": "Rafael Jenz - OtterSpaceDevelopment",
+    "Title": "UncountedIsles - The Game",
     "Webmanifest": "browser/site.webmanifest"
   },
   "Style": {
