@@ -1,0 +1,14 @@
+{
+    "Items": [
+        {
+            "Image": "screenshots/UncountedIsles-0.png",
+            "LightBox": true,
+            "Alt": "Quests"
+        },
+        {
+            "Image": "screenshots/UncountedIsles-1.png",
+            "LightBox": true,
+            "Alt": "Combat"
+        }
+    ]
+}
