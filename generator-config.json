@@ -1,0 +1,48 @@
+{
+  "TemplateDir": "template",
+  "DistDir": "dist",
+  "SrcDir": "src",
+  "PagesDir": "pages",
+  "ScribanTemplate": "template.scriban-html",
+  "GalleryScribanTemplate": "gallery.scriban-html",
+  "AreaHTMLTag": "section",
+  "WebPQuality": 99,
+  "WebPQualityThumbnails": 90,
+  "Website": {
+    "Author": "Rafael Laszlo Jenz @ OtterSpaceDevelopment",
+    "AuthorOccupation": "",
+    "ContactEmail": "contact@uncountedisles.com",
+    "ContactIntro": "For business inquiries use ",
+    "Description": "Travel the Islands of the Uncounted Isle Archipelago to fight and loot. Learn new skills and customize your character for the fights ahead. Trade Equipment you found, but don't forget to store some items in your safehouse, you may need them later...",
+    "Favicon": "browser/favicon.ico",
+    "ImprintLink": "https://rafaeljenz.de/impressum.html",
+    "ImprintText": "Impressum",
+    "Logo": "img/logo.webp",
+    "LogoDescription": "Logo: Two Island and the text 'UncountedIsles'",
+    "ThemeColor": "#0065d1",
+    "Title": "Rafael Jenz - OtterSpaceDevelopment",
+    "Webmanifest": "browser/site.webmanifest"
+  },
+  "Style": {
+    "TextBackground": "#212527",
+    "Background": "#181B1D",
+    "Foreground": "#e8edf3",
+    "Accent": "#086315",
+    "AccentHover": "#1fba38",
+    "Accent2": "#0065d1",
+    "Accent2Hover": "#00c6ff",
+    "FontFamily": "\"Fira Code\", monospace",
+    "FontSize": "0.90em",
+    "LineHeight": "1.5em",
+    "SmallSpacing": "16px",
+    "LargeSpacing": "32px",
+    "BorderRadius": "0px"
+  },
+  "Pages": [
+    {
+      "Text": "Start",
+      "Link": "index.html",
+      "IsInNav": false
+    }
+  ]
+}
