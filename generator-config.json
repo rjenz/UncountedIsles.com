@@ -2,6 +2,9 @@
   "TemplateDir": "template",
   "DistDir": "dist",
   "SrcDir": "src",
+  "DirsToScripInProcessing": [
+    "src/browser"
+  ],
   "PagesDir": "pages",
   "ScribanTemplate": "template.scriban-html",
   "GalleryScribanTemplate": "gallery.scriban-html",
@@ -16,15 +19,17 @@
     "Description": "Travel the Islands of the Uncounted Isle Archipelago to fight and loot. Learn new skills and customize your character for the fights ahead. Trade Equipment you found, but don't forget to store some items in your safehouse, you may need them later...",
     "Favicon": "browser/favicon.ico",
     "ImprintLink": "https://rafaeljenz.de/impressum.html",
-    "ImprintText": "Impressum",
+    "ImprintText": "Imprint",
     "Logo": "img/logo.webp",
     "LogoDescription": "Logo: Two Island and the text 'UncountedIsles'",
+    "LogoWidth": 1984,
+    "LogoHeight": 1104,
     "ThemeColor": "#0065d1",
     "Title": "Rafael Jenz - OtterSpaceDevelopment",
     "Webmanifest": "browser/site.webmanifest"
   },
   "Style": {
-    "TextBackground": "#212527",
+    "TextBackground": "#181B1D",
     "Background": "#181B1D",
     "Foreground": "#e8edf3",
     "Accent": "#086315",
@@ -34,7 +39,7 @@
     "FontFamily": "\"Fira Code\", monospace",
     "FontSize": "0.90em",
     "LineHeight": "1.5em",
-    "SmallSpacing": "16px",
+    "SmallSpacing": "32px",
     "LargeSpacing": "32px",
     "BorderRadius": "0px"
   },
