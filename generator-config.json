@@ -49,5 +49,13 @@
       "Link": "index.html",
       "IsInNav": false
     }
+  ],
+  "Socials": [
+    {
+      "Name": "Twitter",
+      "Link": "https://twitter.com/OtterSpaceDev",
+      "Logo": "img/twitter.webp",
+      "LogoSize": 20
+    }
   ]
 }
