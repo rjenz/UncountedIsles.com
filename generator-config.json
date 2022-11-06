@@ -56,6 +56,12 @@
       "Link": "https://twitter.com/OtterSpaceDev",
       "Logo": "img/twitter.webp",
       "LogoSize": 20
+    },
+    {
+      "Name": "Masterdon",
+      "Link": "https://mastodon.gamedev.place/@OtterSpaceDev",
+      "Logo": "img/mastodon.webp",
+      "LogoSize": 20
     }
   ]
 }
