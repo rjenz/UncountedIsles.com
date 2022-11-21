@@ -19,7 +19,7 @@
     "Description": "Travel the Islands of the Uncounted Isle Archipelago to fight and loot. Learn new skills and customize your character for the fights ahead. Trade Equipment you found, but don't forget to store some items in your safehouse, you may need them later...",
     "Favicon": "browser/favicon.ico",
     "ImprintLink": "https://rafaeljenz.de/impressum.html",
-    "ImprintText": "Imprint",
+    "ImprintText": "Imprint / Privacy",
     "Logo": "img/logo.webp",
     "LogoDescription": "Logo: Two Island and the text 'UncountedIsles'",
     "LogoWidth": 1984,
@@ -52,6 +52,12 @@
   ],
   "Socials": [
     {
+      "Name": "Steam",
+      "Link": "https://store.steampowered.com/app/2012030/Uncounted_Isles/",
+      "Logo": "img/steam.webp",
+      "LogoSize": 20
+    },
+    {
       "Name": "Twitter",
       "Link": "https://twitter.com/OtterSpaceDev",
       "Logo": "img/twitter.webp",
@@ -61,6 +67,12 @@
       "Name": "Masterdon",
       "Link": "https://mastodon.gamedev.place/@OtterSpaceDev",
       "Logo": "img/mastodon.webp",
+      "LogoSize": 20
+    },
+    {
+      "Name": "Youtube",
+      "Link": "https://www.youtube.com/@OtterSpaceDev",
+      "Logo": "img/youtube.webp",
       "LogoSize": 20
     }
   ]
