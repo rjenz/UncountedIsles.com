@@ -41,7 +41,7 @@ jobs:
       
       - name: Upload files to aws s3
         run: |
-          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }} --acl public-read --delete
+          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }} --acl public-read
           
       - name: Create cloudfront invalidation
         run: |
