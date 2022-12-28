@@ -3,22 +3,22 @@
         {
             "Image": "screenshots/UncountedIsles-2.png",
             "LightBox": true,
-            "Alt": "NPCs"
+            "Alt": "Rats!"
         },
         {
             "Image": "screenshots/UncountedIsles-3.png",
             "LightBox": true,
-            "Alt": "Castle Gate"
+            "Alt": "Ghosts and a destroyed village"
         },
         {
             "Image": "screenshots/UncountedIsles-4.png",
             "LightBox": true,
-            "Alt": "Rats!"
+            "Alt": "Kobolds, Night Scene"
         },
         {
             "Image": "screenshots/UncountedIsles-5.png",
             "LightBox": true,
-            "Alt": "Spooky Scary Skeletons 💀"
+            "Alt": "Island panorama view, Day Scene"
         }
     ]
 }
