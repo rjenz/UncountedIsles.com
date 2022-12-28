@@ -1,6 +1,6 @@
 # ⚔ Welcome Adventurer to the Uncounted Isles! ⚔
 
-You are a greenhorn adventurer sent to the Uncounted Isles to deal with all the quests that the higher-ranked adventurers keep ignoring. Fight rats, bandits, the undead and more. Search for missing items or villagers. Dive into dungeons that threaten villages. You can choose which quests to take or to skip.
+You are a greenhorn adventurer sent to the Uncounted Isles to deal with all the quests that the higher-ranked adventurers keep ignoring. Go from fighting rats to bandits, the undead and more. Search for missing items or villagers. Dive into dungeons that threaten villages. You can choose which quests to take or to skip.
 
 Find loot and trade with villagers to get the perfect equipment for your fighting style. Sling spells or fight with a sword and shield to gain more experience and make a name for yourself.
 
